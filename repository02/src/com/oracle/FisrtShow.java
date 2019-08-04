@@ -13,4 +13,9 @@ public class FisrtShow {
         System.out.println("good good study , day day up");
         return result;
     };
+
+    public static void end(){
+
+        System.out.println("start is end ");
+    }
 }
