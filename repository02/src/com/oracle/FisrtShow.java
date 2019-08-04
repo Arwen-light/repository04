@@ -9,6 +9,7 @@ public class FisrtShow {
     public static  int sum(int a, int b){
         int result ;
         result = a + b;
+        System.out.println(result);
         return result;
     };
 }
